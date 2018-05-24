@@ -54,7 +54,7 @@ namespace LinearAlgebra
 
         #endregion
 
-
+         
         /// <summary> Linear Solve parameter. Maximum mean error allowable to linear solve method.</summary>
         public double LINALGMAXERROR = 1e-7;
         /// <summary> Linear Solve parameter. Limit linear solution correction iterations.</summary>
